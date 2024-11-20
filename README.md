@@ -59,5 +59,49 @@ SELECT * FROM TABLE1
 GROUP BY Product
 ```
 
-### 
+### Data Visualization
+---
+![Screenshot (9)](https://github.com/user-attachments/assets/87f18e41-ba5d-4bde-b7f0-baede502d498)
+![Screenshot (10)](https://github.com/user-attachments/assets/8ee72ab3-a697-4775-99b8-eb918615e9f0)
+
+![Screenshot (11)](https://github.com/user-attachments/assets/c08fd1e1-44e7-4719-b043-0fb73d0dfb2e)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/a09ea794-f52c-48f4-96d7-5ba42b660efc)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/633402c8-5189-4832-b925-70e43c55b195)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/60561ea1-4b56-4fd6-a671-9222433f4cb1)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/e3cc11eb-4d37-44ef-98a9-c70676fb2372)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/72349917-9667-4c29-8bb9-d916e2bcda7a)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/042e6469-4c77-4645-a8d5-317195e9f6ad)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/76c056ab-d9bf-4eb0-b78e-58580098bb8f)
+
+![Screenshot (19)](https://github.com/user-attachments/assets/5c3a560d-7b93-4cf6-85f7-2e52bf489568)
+
+![Screenshot (20)](https://github.com/user-attachments/assets/4e3e5c23-e3d2-4af4-a15e-e0880344a6e9)
+
+![Screenshot (21)](https://github.com/user-attachments/assets/93cb7585-4748-44c0-9993-54bf50839502)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/b04c00a6-aa68-49f0-83f8-5916deb4adc8)
+
+![Screenshot (23)](https://github.com/user-attachments/assets/a95cbf14-f430-4c1e-b825-7e995e70e8ae)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
