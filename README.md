@@ -1,6 +1,12 @@
 # LITA PROJECT 1
 ## Project Title: Lita Sales Data
 
+[Project Overview](#project-overview).
+
+Data Source
+
+Tools Used
+
 ### Project Overview
 ---
 This Data Analysis project aim is to analyze the sales performance of a retail store by analysing the various parameters in the data recieved and to discover the key insights of the top sales, regional performace and the monthly trend.
