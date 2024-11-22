@@ -105,7 +105,7 @@ GROUP BY Product
 
 ![Screenshot (20)](https://github.com/user-attachments/assets/4e3e5c23-e3d2-4af4-a15e-e0880344a6e9)
 
-![Screenshot (21)](https://github.com/user-attachments/assets/93cb7585-4748-44c0-9993-54bf50839502)
+![Screenshot (25)](https://github.com/user-attachments/assets/5803b7ce-cfdf-4d51-9a68-33e5be60f444)
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/b04c00a6-aa68-49f0-83f8-5916deb4adc8)
 
