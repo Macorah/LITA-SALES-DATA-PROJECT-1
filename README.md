@@ -24,6 +24,8 @@
 [Key Insight](#key-insight)
 
 [Recommendation](#recommendation)
+
+[Conclusion](#conclusion)
  
 ### Project Overview
 ---
