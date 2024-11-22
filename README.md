@@ -113,7 +113,13 @@ GROUP BY Product
 
 ### Data Summary
 ---
-The data provided shows the sales/revenue figures for six products, here's a detailed breakdown
+The data provided shows the sales/revenue figures for six products, here's a detailed breakdown;
+1. Shoes: $613,380.00
+2. Shirt: $485,600.00
+3. Hat: $316,900.00
+4. Gloves: $296,900.00
+5. Jacket: $208,230.00
+6. Socks: $180,785.00
 
 
 
