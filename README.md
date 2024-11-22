@@ -19,6 +19,8 @@
 
 [Data Visualization](#data-visualization)
 
+[Data Summary](#data-summary)
+
 ### Project Overview
 ---
 This Data Analysis project aim is to analyze the sales performance of a retail store by analysing the various parameters in the data recieved and to discover the key insights of the top sales, regional performace and the monthly trend.
@@ -108,6 +110,11 @@ GROUP BY Product
 ![Screenshot (22)](https://github.com/user-attachments/assets/b04c00a6-aa68-49f0-83f8-5916deb4adc8)
 
 ![Screenshot (23)](https://github.com/user-attachments/assets/a95cbf14-f430-4c1e-b825-7e995e70e8ae)
+
+### Data Summary
+---
+The data provided shows the sales/revenue figures for six products, here's a detailed breakdown
+
 
 
 
