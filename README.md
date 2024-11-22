@@ -3,9 +3,21 @@
 
 [Project Overview](#project-overview).
 
-Data Source
+[Data Source](#data-source)
 
-Tools Used
+[Tools Used](#tools-used)
+
+[Data Collected](data-collected)
+
+[Data Cleaning and Preparations](#data-cleaning-and-prearation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Project Objectives](#project-objectives)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 ---
@@ -68,6 +80,7 @@ GROUP BY Product
 ### Data Visualization
 ---
 ![Screenshot (9)](https://github.com/user-attachments/assets/87f18e41-ba5d-4bde-b7f0-baede502d498)
+
 ![Screenshot (10)](https://github.com/user-attachments/assets/8ee72ab3-a697-4775-99b8-eb918615e9f0)
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/c08fd1e1-44e7-4719-b043-0fb73d0dfb2e)
