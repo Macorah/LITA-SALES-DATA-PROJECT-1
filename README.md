@@ -21,6 +21,10 @@
 
 [Data Summary](#data-summary)
 
+[Key Insight](#key-insight)
+
+[Recommendation](#recommendation)
+ 
 ### Project Overview
 ---
 This Data Analysis project aim is to analyze the sales performance of a retail store by analysing the various parameters in the data recieved and to discover the key insights of the top sales, regional performace and the monthly trend.
@@ -120,6 +124,30 @@ The data provided shows the sales/revenue figures for six products, here's a det
 4. Gloves: $296,900.00
 5. Jacket: $208,230.00
 6. Socks: $180,785.00
+
+Grand Total Revenue: $2,101,090.00
+
+### Key Insight
+---
+- The top performing product is the shoes leading the revenue figure with the sum of $613, 380.00, approximately 29.2% of the total revenue
+- The second top performing product is the shirt leading the revenue with the sum of $485,600.00, approximately 23.1% of the total revenue
+- The lowest performing product is the socks leading the revenue with the sum of $180,785.00, approximately 8.6% of the total revenue
+- The top performing region is the South region leading the revenue with the sum of $927,820.00, approximately 44.2% of the total revenue
+- The second top performing region is the East region leading the revenue with the sum of $485,9925.00, approximately 23.1% of the total revenue
+- The lowest performing region is the West region leading the revenue with the sum of $300,345.00, approximately 14.3% of the total revenue
+
+### Recommendation
+---
+1. Enhance the marketing strategy of the top products as they contribute sugnificantly to the growth of the company's revenue
+2. Make findings for the reasons for low sales of the least products purchased and the marketing strategy should be focused on
+3. for the least products purchase there should be more promotion done on them
+
+### Conclusion
+---
+This analysis shows that Shoes are the highest selling product, accounting for the largest part of the grand total revenue,while the South region was the highest reghion generating more revenue, while the socks and jacket were the least, tho there are rooms for improvement.
+
+THANK YOU
+
 
 
 
